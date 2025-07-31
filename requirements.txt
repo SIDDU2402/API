@@ -1,7 +1,7 @@
 fastapi
 uvicorn
 pydantic
-pinecone-client==2.2.4
+inecone-client==3.0.0
 google-generativeai
 psycopg2-binary
 redis
